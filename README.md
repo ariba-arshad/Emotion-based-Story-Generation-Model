@@ -1,5 +1,7 @@
 # Emotion-based Story Generation Model
 
+![demo](demo.png)  
+
 ---
 ## Introduction
 Storytelling is a fundamental part of human culture and communication. With advancements in natural language processing (NLP), there is potential to revolutionize storytelling by automating the creation of narratives.  
