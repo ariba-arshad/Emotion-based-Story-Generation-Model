@@ -1,6 +1,6 @@
 # Emotion-based Story Generation Model
 
-![demo](demo.png)  
+![demo](demo.PNG)  
 
 ---
 ## Introduction
